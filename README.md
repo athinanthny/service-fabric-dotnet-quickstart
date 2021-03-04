@@ -1,7 +1,7 @@
 ---
 services: service-fabric
 platforms: dotnet
-author: mikkelhegn
+author: atsenthi
 ---
 
 # Service Fabric .NET Quickstart
